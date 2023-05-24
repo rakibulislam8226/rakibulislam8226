@@ -4,7 +4,8 @@
 - 🌱 I’m currently Working on **Python**
 
 - 📫 Send mail by clicking <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJvmZKHmgLVGRqPzxCBlbDbhgzrJgdBxjsKMqgQmBMkBvwTsPpszLGMPwChXcQctQMJkJBV" target="_blank" title='Click here for redrict to send mail'>**here**</a> or **rakibulislam8226@gmail.com**
-<h4 align="left">Connect with me:</h4>
-  <a href="https://www.facebook.com/rakibkhan9065/" target="_blank">Linkedin</a>
 
-<p align="left"></p>
+<h4 align="left">Connect with me:</h4>
+  <a href="https://www.linkedin.com/in/rakibulislam8226/" target="_blank">Linkedin</a>
+
+
