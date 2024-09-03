@@ -3,7 +3,6 @@
 <br>
 <div align="center">
 
-![Ahmed](gitartwork.svg)
 
 </div>
 <br>
