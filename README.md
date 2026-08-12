@@ -8,16 +8,18 @@
 </div>
 <br>
 
-👨‍💻 Software Engineer passionate about building innovative solutions. 
-
+👨‍💻 Software Engineer passionate about building innovative solutions.
 
 🚀 Lifelong learner dedicated to solving problems and continuously expanding my knowledge.
 
-🤝 Believer in the power of collaboration and teamwork to create impactful solutions.
+📦 Author of [nest-debug-panel](https://www.npmjs.com/package/nest-debug-panel), an npm package for debugging Nest.js apps.
 
-🔧 Proficient in Python, Django, React, Tailwind, and SQL databases. Experienced in developing ERP solutions and web applications.
+🤝 Strong foundation in system design, database design and deployment, with contributions to government and international projects.
+
+🔧 Proficient in Python, Node.js, Docker, React, Vue, Tailwind, and SQL databases. Experienced in building ERP solutions, SaaS applications, and AI-powered tools.
 
 Let's tackle complex problems together and make a difference in the world of technology!
+
 <h5 align="left">Connect with me:</h5>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakibulislam8226/)  
@@ -38,6 +40,7 @@ Let's tackle complex problems together and make a difference in the world of tec
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-092E20?style=flat-square&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -64,16 +67,3 @@ Let's tackle complex problems together and make a difference in the world of tec
 - Run DevOps end to end: containerization, monitoring and performance tuning
 - Ship Stripe payments, AI summaries and background jobs
 - Write clean, reusable code with TDD
-
-
----
-### Also
-
-- Author of [nest-debug-panel](https://www.npmjs.com/package/nest-debug-panel), an npm package for debugging Nest.js apps
-- Contributed to government and international projects
-- Built a full ERP solution integrated with IoT
-- Strong foundation in system design, database design and deployment
-
-
-
-
