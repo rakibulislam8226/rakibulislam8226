@@ -31,6 +31,10 @@ Let's tackle complex problems together and make a difference in the world of tec
 
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-092E20?style=flat-square&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
@@ -44,10 +48,31 @@ Let's tackle complex problems together and make a difference in the world of tec
 ![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Scrapy](https://img.shields.io/badge/-Scrapy-43B02A?style=flat-square&logo=scrapy&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Multi-tenant](https://img.shields.io/badge/-Multi--tenant-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+
+---
+### What I do
+
+- Build AI apps with open source models, LangChain and RAG
+- Design system architecture and databases for Ride Share and SaaS products
+- Set up cloud infrastructure and CI/CD pipelines with Jenkins and GitHub Actions
+- Run DevOps end to end: containerization, monitoring and performance tuning
+- Ship Stripe payments, AI summaries and background jobs
+- Write clean, reusable code with TDD
+
+
+---
+### Also
+
+- Author of [nest-debug-panel](https://www.npmjs.com/package/nest-debug-panel), an npm package for debugging Nest.js apps
+- Contributed to government and international projects
+- Built a full ERP solution integrated with IoT
+- Strong foundation in system design, database design and deployment
 
 
 
